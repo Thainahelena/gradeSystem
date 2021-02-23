@@ -15,11 +15,10 @@ function classification() {
     } else {
       return finalScore = 'Nota inválida, tente novamente'
     }
-    
-  }
+}
   
   const Box = {
     open() {
       document.getElementById('scoreDisplay').innerHTML = classification()
     }
-  }
+}
