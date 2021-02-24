@@ -6,3 +6,16 @@ body {
     font-size: small;
     font-weight: 400;
 }
+
+.btnn{
+    color: rgba(245, 245, 245, 0.705);
+    background-color: rgba(245, 245, 245, 0.336);
+    border: none;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.btnn:hover{
+    color: rgba(245, 245, 245, 0.445);
+    background-color: rgba(245, 245, 245, 0.164);
+}
