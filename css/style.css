@@ -8,16 +8,16 @@ body {
 }
 
 .btnn{
-    color: rgba(245, 245, 245, 0.705);
-    background-color: rgba(245, 245, 245, 0.336);
+    color: rgba(245, 245, 245, 0.452);
+    background-color: rgba(245, 245, 245, 0.103);
     border: none;
     text-decoration: none;
     font-weight: 600;
 }
 
 .btnn:hover{
-    color: rgba(245, 245, 245, 0.445);
-    background-color: rgba(245, 245, 245, 0.164);
+    color: rgb(245, 245, 245);
+    background-color: #7373b1;
 }
 
 #foot{
@@ -29,4 +29,16 @@ body {
     font-weight: 600;
     font-size: 60px;
     margin-top: 3rem;
+}
+
+.nav-color{
+    color: #e6e6fa;
+}
+
+.nav-color:hover{
+    color: #7373b1;
+}
+
+#title-color:hover{
+    color: #7373b1
 }
